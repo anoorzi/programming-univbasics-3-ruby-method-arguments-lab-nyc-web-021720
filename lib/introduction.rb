@@ -4,7 +4,7 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 def introduction(name="g")
-  print " Hi, my name is #{name}.\n "
+  print " Hi, my naame is #{name}.\n "
 end
 
 
